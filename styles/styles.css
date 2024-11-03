@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&family=Raleway:wght@100..900&display=swap');
+
+
+/* -------------Fonts-------------- */
+
+.font-Raleway{
+    font-family: "Raleway", sans-serif;
+}
+
+.font-Inter{
+    font-family: "Inter", sans-serif;
+}
+
+.primary-fontcolor{
+    color: #030712
+}
+
+.secondery-fontcolor{
+    color: #03071299
+}
+
+
+/* --------------Primery Color------------ */
+
+.primary-Color{
+    color: #1DD100;
+}
+
+
+
+
+/* <!-- <div class="navbar-end">
+                        <div>
+                            <p>Bus</p>
+                            <img src="Assets/bus-icon.png" alt="">
+                        </div>
+                    </div> --> */
